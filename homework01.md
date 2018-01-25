@@ -1,6 +1,5 @@
-**Ryan Goss**
-**Homework 01** | 24 Jan 2018
-Software Development 5828
+##### **Ryan Goss** | Software Development 5828 | 24 Jan 2018
+# **Homework 01**
 
 1. **Define the term _essential difficulties_ as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.**
 
