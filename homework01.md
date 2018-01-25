@@ -1,14 +1,12 @@
 **Ryan Goss**
-
 **Homework 01** | 24 Jan 2018
-
 Software Development 5828
 
-1. **Define the term _ essential difficulties _ as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.**
+1. **Define the term _essential difficulties_ as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.**
 
 Books defines _essential difficulties_ as the _inherent properties_ that make building software hard—and he uses the term &quot;hard&quot; relative to building hardware where he makes the argument that software is _orders of magnitude_ more difficult to build properly and without mistakes. This means that software is _defined by_ the problems that Books points out (complexity, conformity, changeability and invisibility) by the way software is engineered, and due to this very nature and what software is doing and solving, it will always carry these problems. For example, software projects are complex by nature, meaning by the way they operate and the billions of different states and cases they must deal with makes them much more difficult to &quot;assemble&quot; than any hardware counterpart. No two &quot;parts&quot; (or functions) are alike, unlike in hardware where the number of parts are much less in software. Additionally, each of the &quot;parts&quot; in software interact in nonlinear ways, resulting in a complexity growth that is exponential.
 
-2. **Define the term **** accidental difficulties **** as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.**
+2. **Define the term _accidental difficulties_ as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.**
 
 These are difficulties that, unlike _essential difficulties_, have unnecessarily been introduced into the piece of software or the software process by human design (error). Brooks gives the example of high level programming languages solving an _accidental difficulty_. This is because while the high level language are taking previously complex constructs that a lower level language (say, assembly) dealt with and reducing it to more simplified constructs, those more complex bits that assembly had created were, in essence, needless in the first place. The essence of the piece of software would still be _essentially difficult_ by its very nature and way it operates—the high level language is just attempting to get closer to approximating or reducing the delta between _accidental difficulty_ and _essential difficulty_.
 
